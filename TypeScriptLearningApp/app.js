@@ -36,6 +36,7 @@ var Tigris = (function (_super) {
         return _this;
     }
     Tigris.prototype.Eating = function () {
+        console.log("sjdfbjskgffsfisfnsd");
     };
     Tigris.prototype.Drinking = function () {
     };
