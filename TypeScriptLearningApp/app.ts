@@ -40,7 +40,7 @@ class Tigris extends Animal implements actions {
     }
 
     Eating(): void {
-        console.log("sjdfbjskgffsfisfnsd");
+
     }
 
     Drinking(): void {
